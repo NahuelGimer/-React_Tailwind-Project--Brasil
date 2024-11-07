@@ -15,7 +15,7 @@ const Footer = () => {
       <h1 className='flex justify-center w-full '>BRASIL</h1>
         <div className=' text-center w-full justify-between items-center'>
           <div className='flex justify-center w-full my-4'>
-            <a target="_blank" href="https://www.linkedin.com/in/nahuel-gimer-159257324/" className='m-3 cursor-pointer'>
+            <a target="_blank" href="https://www.linkedin.com/in/nahuel-gimer" className='m-3 cursor-pointer'>
             <FaLinkedin className='icon icon_footer icon_footer-linkedin' />
             <h3>LinkedIn</h3>
             </a>
