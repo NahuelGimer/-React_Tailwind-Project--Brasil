@@ -27,7 +27,7 @@ const Footer = () => {
             <FaWhatsapp className='icon icon_footer  icon_footer-whatsapp' />
             <h3>WhatsApp</h3>
             </a>
-            <a href="mailto:gimernahuel.work@gmail.com" className='m-3 cursor-pointer'>
+            <a href="mailto:gimernahuel@outlook.com" className='m-3 cursor-pointer'>
             <FaEnvelope className='icon icon_footer  icon_footer-email' />
             <h3>Email</h3>
             </a>
